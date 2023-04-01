@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    position: relative;
+}
+header .text{
+    margin: 0px;
+}
+header .text h1{
+    color: #0072ff;
+    position: absolute;
+    text-align: center;
+}
+header .text img{
+    display: flex;
+    width: 500px;
+    margin-right: 0;
+}
